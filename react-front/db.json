@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "courseName": "Vue",
+      "isChecked": true
+    },
+    {
+      "courseName": "nice",
+      "isChecked": false
+    },
+    {
+      "courseName": "Angular",
+      "isChecked": false
+    }
+  ]
+}
